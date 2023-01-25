@@ -27,10 +27,10 @@ description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://lmorsouw.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: lmorsouw             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -38,12 +38,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Joris van Orsouw
   email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/lmorsouw       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/FD1BD1E7-6108-4F28-8761-53629B1965AD.png
+avatar: /assets/FD1BD1E7-6108-4F28-8761-53629B1965AD.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
