@@ -24,7 +24,7 @@ title: leo's view                          # the main title
 tagline: Software engineer by profession, physics and nature lover by choice   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  My view on certain topics and explaining phenomenon, though examples.
+  My view and/or explanation on certain topics and phenomenon.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://lmorsouw.github.io'
